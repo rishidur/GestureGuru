@@ -4,7 +4,7 @@
 
 ## Hand Gesture Recognition
 
-This repository contains a Python implementation for hand gesture recognition using OpenCV and MediaPipe. The goal of this project is to accurately detect and recognize hand gestures, specifically counting the number of fingers shown. 
+This repository contains a Python implementation for hand gesture recognition using OpenCV and MediaPipe. The goal of this project is to accurately detect and recognize hand gestures, specifically counting the number of fingers shown. As well as a active FPS Counter that helps calculuate the speed you're video is running at! 
 
 ### Future Uses and Implementation
 
